@@ -1,0 +1,45 @@
+#background {
+    height: 725px;
+    background-color: rgb(183, 157, 90);
+}
+
+body {
+    background-color: #fcfbfb; 
+    max-width: 1600px;
+    text-align: center;
+}
+header {
+    background-color:rgba(20,30,13, .7);
+    text-align: left;
+}
+
+
+nav a:hover {
+    background-color: black;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+                
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}   
+
+img.mountains{
+    text-align: left;
+}
+
+section.msg{
+     background-color:rgba(20,30,13, .7);
+     color: white;
+}
+
+footer {
+    background-color: rgba(20,30,13, .7);
+    text-align: left;
+    color: white;
+}
