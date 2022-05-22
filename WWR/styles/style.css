@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Raleway:ital@1&family=Rock+Salt&family=Tapestry&display=swap');
+
+
 #background {
     height: 725px;
     background-color: rgb(183, 157, 90);
@@ -7,6 +10,10 @@ body {
     background-color: #fcfbfb; 
     max-width: 1600px;
     text-align: center;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color:rgba(20,30,13, .7);
@@ -42,4 +49,44 @@ footer {
     background-color: rgba(20,30,13, .7);
     text-align: left;
     color: white;
+}
+
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
+
+
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+  }
+
+
+h2 {
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+
+
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
 }
