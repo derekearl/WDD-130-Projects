@@ -1,0 +1,16 @@
+h3 {
+    text-align: center;
+    text-shadow: 100ch;
+    font-size: 100px;
+}
+
+img {
+    text-align: left;
+    width: 500px;
+    height: 500px;
+}
+
+div {
+    text-align: right;
+    font-size: medium;
+}
