@@ -203,7 +203,13 @@ main section img {
     box-sizing: border-box;
 }
 
+#subpage1 {
+    width: 750px;
+    height: 500px;
+    margin-left: 5%;
+}
 
+/*Below is the CSS for Mobile phones*/
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
