@@ -10,9 +10,8 @@ body {
     padding: 0;
 }
 
-
 header {
-    background-color: mediumturquoise; 
+    background-color: #CCFFDD; 
     max-width: 1600px;
     display: grid;
     grid-template-columns: 150px auto;
